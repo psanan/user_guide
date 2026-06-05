@@ -13,6 +13,7 @@ Things I care enough about to fight (often, with myself) for:
 * Important but not urgent work. (Work on P1s so you don't have so many P0s later)
 * In-person collaboration
 * In-person socialization and fun
+* Making knowledge re-discoverable
 * Working with ethical, thoughful, well-rounded, and intrinsically motivated people
 
 ## Communication preferences
