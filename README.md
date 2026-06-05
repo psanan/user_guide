@@ -28,9 +28,9 @@ I speak quickly and even native English speakers find me hard to understand, so 
 I also very much like to express myself in writing.
 
 I think people (myself included) reach for pings (direct chat messages) too much, and that they should be treated as if messages 
-there may never be read, and disappear after being read. Is there a better place to put a message, that has more shared context, 
+there may never be read, and disappear after being read. Is there a better place to put a message, with more shared context, 
 searchability, and visibility? A bug or doc comment are often better choices. An email or even a chat space message, while suffering 
-some of the same problems, are usually preferable to a ping.
+some of the same problems, is usually preferable to a ping.
 
 
 ## Name and Cultural Background
