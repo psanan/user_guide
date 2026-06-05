@@ -23,7 +23,7 @@ That said, I can often express myself best in writing.
 
 I speak quickly and even native English speakers find me hard to understand, so please don't be shy about asking me to repeat.
 
-I think people (myself included) reach for pings (direct chat messages) too much, and that they should be treated as if messages disappear after being read. Is there a better place to put your message (a bug, a doc comment, a shared chat space, or an email)?
+I think people (myself included) reach for pings (direct chat messages) too much, and that they should be treated as if messages disappear after being read. Is there a better place to put your message, that has more context, searchability, and visibility? A bug or doc comment are often better choices. An email or even a chat space message, while suffering some of the same problems, are usually preferable to a ping.
 
 I am a very sociable person but don't always have the energy to make the first move.
 
