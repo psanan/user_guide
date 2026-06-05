@@ -44,5 +44,12 @@ of Google search indicates, I am one of very few people in the world with my nam
 
 ## More about me
 
+I studied aerospace engineering, applied mathematics, and electroacoustic music. After my PhD, I worked as a postdoc on topics 
+around computational science, parallel computational linear algebra and solvers, high-performance-computing, and computational 
+earth science. I learned to be a software engineer largely through working with the petsc.org community. 
+
+
 I have a partner and two kids. I am a passionate and creative person, in particular with regards to music and mountain sports 
-like ultra trailrunning and peakbagging. I have some things posted at patricksanan.org 
+like ultra trailrunning and peakbagging. 
+
+More at patricksanan.org .
