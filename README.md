@@ -14,7 +14,7 @@ Things I care enough about to fight (often, with myself) for:
 * In-person collaboration
 * In-person socialization and fun
 * Making knowledge re-discoverable
-* Working with ethical, thoughful, well-rounded, and intrinsically motivated people
+* Working with ethical, thoughtful, well-rounded, quality-driven, and intrinsically motivated people
 
 ## Communication preferences
 
